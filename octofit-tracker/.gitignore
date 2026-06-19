@@ -1,0 +1,7 @@
+# Root .gitignore for OctoFit Tracker
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
